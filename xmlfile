@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book category="fiction">
+    <title>The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <year>1925</year>
+  </book>
+  <book category="non-fiction">
+    <title>Steve Jobs</title>
+    <author>Walter Isaacson</author>
+    <year>2011</year>
+  </book>
+</bookstore>
